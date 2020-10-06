@@ -6,7 +6,7 @@ GRF is a powerful implicit neural function that can represent and render arbitra
 
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![](https://github.com/alextrevithick/GRF/blob/main/fig_U-Net.png) |  ![](https://github.com/alextrevithick/GRF/blob/main/fig_U-Net.png)
+![](https://github.com/alextrevithick/GRF/blob/main/fig_GRF.png) |  ![](https://github.com/alextrevithick/GRF/blob/main/fig_U-Net.png)
 
 
 
