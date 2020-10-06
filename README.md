@@ -1,5 +1,5 @@
 # GRF
-This is the official repository for General Radiance Field (GRF).\\ 
+This is the official repository for General Radiance Field (GRF).   
 \[Paper\] \[Code\] \[Video\]
 
 ## Method
