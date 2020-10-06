@@ -1,2 +1,2 @@
-# GRF-Learning-a-General-Radiance-Field
+# GRF
 This is the official repository for General Radiance Field (GRF).
