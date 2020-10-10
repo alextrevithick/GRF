@@ -7,9 +7,9 @@ Alex Trevithick [Bo Yang](https://yang7879.github.io/)
 ![](vid_real.gif)
 
 :-------------------------:|:-------------------------:
-![](https://github.com/alextrevithick/GRF/blob/main/leaves.gif) |  ![](https://github.com/alextrevithick/GRF/blob/main/orchids.gif)
+![](https://github.com/alextrevithick/GRF/blob/main/leaves.gif) |  ![](https://github.com/alextrevithick/GRF/blob/main/orchids.gif) | ![](https://github.com/alextrevithick/GRF/blob/main/fortress.gif) |  ![](https://github.com/alextrevithick/GRF/blob/main/trex.gif)
 :-------------------------:|:-------------------------:
-![](https://github.com/alextrevithick/GRF/blob/main/room.gif) |  ![](https://github.com/alextrevithick/GRF/blob/main/horns.gif)
+![](https://github.com/alextrevithick/GRF/blob/main/room.gif) |  ![](https://github.com/alextrevithick/GRF/blob/main/horns.gif) | ![](https://github.com/alextrevithick/GRF/blob/main/fern.gif) |  ![](https://github.com/alextrevithick/GRF/blob/main/flower.gif)
 
 
 ## Method
