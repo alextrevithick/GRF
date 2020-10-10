@@ -4,9 +4,6 @@ This is the official repository for General Radiance Field (GRF) from:
 Alex Trevithick [Bo Yang](https://yang7879.github.io/)  
 \[Paper\] \[Code (coming soon)\] \[[Video (Download for full 1008 by 756 resolution)](https://drive.google.com/file/d/1H2FNeAsKoQqCsO0n7PiA1HcT1ingnwJd/view?usp=sharing)\]
 
-![](vid_real.gif)
-
-:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![](https://github.com/alextrevithick/GRF/blob/main/leaves.gif) |  ![](https://github.com/alextrevithick/GRF/blob/main/orchids.gif) | ![](https://github.com/alextrevithick/GRF/blob/main/fortress.gif) |  ![](https://github.com/alextrevithick/GRF/blob/main/trex.gif)
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![](https://github.com/alextrevithick/GRF/blob/main/room.gif) |  ![](https://github.com/alextrevithick/GRF/blob/main/horns.gif) | ![](https://github.com/alextrevithick/GRF/blob/main/fern.gif) |  ![](https://github.com/alextrevithick/GRF/blob/main/flower.gif)
