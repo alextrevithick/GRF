@@ -12,6 +12,7 @@ This is the official repository for General Radiance Field (GRF) from:
 ![](https://github.com/alextrevithick/GRF/blob/main/qual_comp_real.png)
 
 ## Qualitative Results on Shapenet
+:-------------------------:|:-------------------------:
 ![](https://github.com/alextrevithick/GRF/blob/main/car.gif) |  ![](https://github.com/alextrevithick/GRF/blob/main/chair.gif)
 
 ## Method
