@@ -24,7 +24,7 @@ GRF            |  U-Net Design
 ## Results
 Our method achieves extremely high-quality results on three challenging datasets. On the shapenet chairs and cars dataset, GRF outperforms the state of the art on 50-view novel view synthesis.
 
-![](https://github.com/alextrevithick/GRF/blob/main/figs/fig_results_Shapenet.png)
+![](https://github.com/alextrevithick/GRF/blob/main/figs/fig_results_shapenet.png)
 
 On single-scene reconstruction, our method also outperforms the state of the art on both synthetic datasets and complex real datasets.
 
