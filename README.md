@@ -1,5 +1,5 @@
 # GRF
-This is the official repository for General Radiance Field (GRF) from **GRF: Learning a General Radiance Field for 3D Scene Representation and Rendering**  
+This is the official repository for **GRF: Learning a General Radiance Field for 3D Scene Representation and Rendering**  
 [Alex Trevithick](https://alextrevithick.github.io/), [Bo Yang](https://yang7879.github.io/)  
 \[Paper\] \[Code (coming soon)\] \[[Video (Download for full 1008 by 756 resolution)](https://drive.google.com/file/d/1H2FNeAsKoQqCsO0n7PiA1HcT1ingnwJd/view?usp=sharing)\]
 
