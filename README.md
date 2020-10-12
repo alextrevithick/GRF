@@ -22,7 +22,7 @@
 ## (4) Overview of GRF
 GRF is a powerful implicit neural function that can represent and render arbitrarily complex 3D scenes in a single network only from 2D observations. GRF takes a set of posed 2D images as input, constructs an internal representation for each 3D point of the scene, and renders the corresponding appearance and geometry of any 3D point viewing from an arbitrary angle. The key to our approach is to explicitly integrate the principle of multi-view geometry to obtain features representative of an entire ray from a given viewpoint. Thus, in a single forward pass to render a scene from a novel view, GRF takes some views of that scene as input, computes per-pixel pose-aware features for each ray from the given viewpoints through the image plane at that pixel, and then uses those features to predict the volumetric density and rgb values of points in 3D space. Volumetric rendering is then applied.
 <p align="center">
-  <img src="https://github.com/alextrevithick/GRF/blob/main/figs/fig_GRF.png" width="60%" />
+  <img src="https://github.com/alextrevithick/GRF/blob/main/figs/fig_GRF.png" width="40%" />
 </p>          
 
 ## (5) Quantative Results on the Real-world Dataset
@@ -33,3 +33,13 @@ GRF is a powerful implicit neural function that can represent and render arbitra
 
 ## (7) Quantative Results the ShapeNetv2 Dataset
 ![](https://github.com/alextrevithick/GRF/blob/main/figs/fig_results_shapenet.png)
+
+### Citation
+If you find our work useful in your research, please consider citing:
+
+    @inproceedings{grf2020,
+      title={GRF: Learning a General Radiance Field for 3D Scene Representation and Rendering},
+      author={Trevithick, Alex and Yang, Bo},
+      booktitle={arXiv:2010.04595},
+      year={2020}
+    }
