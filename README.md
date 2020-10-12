@@ -19,7 +19,6 @@ GRF is a powerful implicit neural function that can represent and render arbitra
 <p align="center">
   <img src="https://github.com/alextrevithick/GRF/blob/main/figs/fig_GRF.png" />
 </p>          
-![](https://github.com/alextrevithick/GRF/blob/main/figs/fig_GRF.png)
 
 ## Results
 Our method achieves extremely high-quality results on three challenging datasets. On the shapenet chairs and cars dataset, GRF outperforms the state of the art on 50-view novel view synthesis.
