@@ -37,6 +37,9 @@ GRF is a powerful implicit neural function that can represent and render arbitra
 ### Citation
 If you find our work useful in your research, please consider citing:
 
+### Citation
+If you find our work useful in your research, please consider citing:
+
     @inproceedings{grf2020,
       title={GRF: Learning a General Radiance Field for 3D Scene Representation and Rendering},
       author={Trevithick, Alex and Yang, Bo},
