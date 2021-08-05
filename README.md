@@ -94,7 +94,7 @@ After setting the parameters of the model, to run it,
 The models were tested on 32gb GPUs, and higher resolution images require very large amounts of memory. The shapenet experiments should run on 16gb GPUs.
 
 ## Acknowledgements
-The code is built upon the original [NeRF implementation](https://github.com/bmild/nerf).
+The code is built upon the original [NeRF implementation](https://github.com/bmild/nerf). Thanks to LucidRains for the torch implementation of slot attention on which the current version is based.
 
 
 ### Citation
