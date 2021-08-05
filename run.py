@@ -1028,19 +1028,12 @@ def train():
     if args.render_only:
         all_ssim = []
         all_psnr = []
-        import torch
-        sys.path.append("./lpips")
-        import models
         savedir = os.path.join(args.basedir, args.expname, "paper_test_imgs")
         try:
             os.makedirs(savedir, exist_ok = True)
             print("save dir created at ", savedir)
         except:
-            print("Directory not created")
-        model = models.PerceptualLoss(model='net-lin', net='vgg', use_gpu=False)
-        #transpose image so that the 3 is in the front
-        #im0 = torch.ones(2,3,1008,756, dtype = torch.float32)
-        #im1 = torch.ones(2,3,1008,756,dtype = torch.float32)  
+            print("Directory not created") 
         render_list = [] 
         assert i_val is None, "no val during testing"
         views_per_scene = len(i_train)+len(i_test)
