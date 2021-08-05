@@ -1,0 +1,24 @@
+expname = fern
+basedir = ./logs
+datadir = /dev/shm/temp/nerf_llff_data/fern
+no_render_pose = True
+dataset_type = llff
+i_img= 10
+N_rand = 800
+N_samples = 64
+N_importance = 128
+i_print = 5000
+lrate = 1e-4
+use_attsets = True
+use_viewdirs = True
+multires = 10
+netchunk= 64000
+
+netwidth = 384
+netwidth_fine = 384
+
+factor = 4
+llffhold = 8
+
+use_viewdirs = True
+

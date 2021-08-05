@@ -1,0 +1,15 @@
+# To run: conda env create -f environment.yml
+name: grf
+channels:
+    - conda-forge
+dependencies:
+    - python=3.7
+    - pip
+    - cudatoolkit=10.0
+    - tensorflow-gpu==1.15
+    - numpy
+    - matplotlib
+    - imageio
+    - imageio-ffmpeg
+    - configargparse
+    - imagemagick

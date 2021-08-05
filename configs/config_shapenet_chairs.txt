@@ -1,0 +1,23 @@
+expname = final_chairs_highlr
+basedir = ./logs
+datadir = /dev/shm/temp/chairs
+use_attsets=True
+dataset_type = shapenet
+i_img = 100000
+N_rand = 1000
+N_samples = 32
+N_importance = 32
+training_recon = True
+white_bkgd = True
+use_viewdirs = True
+from_scene = 1151
+multires = 10
+lrate = 1e-4
+lrate_decay = 200
+
+netchunk= 131072
+
+netwidth = 384
+netwidth_fine = 384
+
+no_batching = True
