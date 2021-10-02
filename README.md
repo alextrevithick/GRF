@@ -1,5 +1,5 @@
 # GRF: Learning a General Radiance Field for 3D Representation and Rendering
-### [[Paper](https://arxiv.org/abs/2010.04595)\] \[[Video Results](https://drive.google.com/file/d/1H2FNeAsKoQqCsO0n7PiA1HcT1ingnwJd/view?usp=sharing)\]
+### [[Paper](https://arxiv.org/abs/2010.04595)\] \[[Video](https://www.youtube.com/watch?v=gwSQwnsyilc)\] 
 [GRF: Learning a General Radiance Field for 3D Representation and Rendering](https://github.com/alextrevithick/GRF)  
  [Alex Trevithick](https://alextrevithick.github.io/)<sup>1,2</sup> and
  [Bo Yang](https://yang7879.github.io/)<sup>2,3</sup>
@@ -7,7 +7,7 @@
  <sup>1</sup>Williams College, <sup>2</sup>University of Oxford, <sup>3</sup>The Hong Kong Polytechnic University 
 in ICCV 2021
 
-This the codebase which is currently a work in progress. 
+This is the codebase which is currently a work in progress. 
 
 <img src='imgs/process.png'/>
 
